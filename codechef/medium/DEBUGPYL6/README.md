@@ -76,7 +76,7 @@ Output
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-07-15T07:10:20.521Z  
+**Submitted:** 2026-07-15T11:06:39.083Z  
 
 ```py
 # add if statement for b = 0 and else for b != 0
