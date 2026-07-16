@@ -1,6 +1,6 @@
-n = 128
+
 i = 2
 
-while i <= n:
+while i <= 128:
     print(i)
     i = i*2
