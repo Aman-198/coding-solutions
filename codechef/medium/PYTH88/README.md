@@ -18,13 +18,13 @@ Write a program which does the following
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-07-16T04:24:59.442Z  
+**Submitted:** 2026-07-16T04:25:27.039Z  
 
 ```py
 # Update the code below this line
 day = ["Monday", "Tuesday", "Wednesday", "Thursday"]
-print (day[2])
-print (day[3])
+print(day[2])
+print(day[3])
 ```
 
 ---
