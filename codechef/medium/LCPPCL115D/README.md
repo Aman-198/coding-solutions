@@ -34,13 +34,13 @@ You have to print powers of $2$ from $2$ to $128$ in separate lines using a whil
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-07-16T05:36:45.265Z  
+**Submitted:** 2026-07-16T05:37:21.667Z  
 
 ```py
-n = 128
+
 i = 2
 
-while i <= n:
+while i <= 128:
     print(i)
     i = i*2
 
