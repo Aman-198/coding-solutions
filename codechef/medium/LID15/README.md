@@ -28,13 +28,13 @@ Write a program which does the following:
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-07-16T04:29:11.852Z  
+**Submitted:** 2026-07-16T04:29:23.970Z  
 
 ```py
 # print the 2nd last element from the following list. Update the '_' in the code below
 
 list = ["lock","key","barrier","sign","door"]
-print(list[-2])
+print(list[3])
 
 
 ```
