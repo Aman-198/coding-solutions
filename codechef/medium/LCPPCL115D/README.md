@@ -34,7 +34,7 @@ You have to print powers of $2$ from $2$ to $128$ in separate lines using a whil
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-07-16T05:37:21.667Z  
+**Submitted:** 2026-07-17T06:29:00.536Z  
 
 ```py
 
