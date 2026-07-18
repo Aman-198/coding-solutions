@@ -1,6 +1,7 @@
+# Update your code below this line
 
-i = 2
-
-while i <= 128:
-    print(i)
-    i = i*2
+num = int(input())
+a = 0
+while a < num:
+    print(a)
+    a = a + 1
