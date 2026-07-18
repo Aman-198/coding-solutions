@@ -4,23 +4,53 @@
 
 ## Problem
 
-_Description not available._
+### User input Loop
+
+Listen
+
+Given an integer `N` as input.
+You need to output the numbers from 0 to (N-1) on separate lines.
+
+### Task
+- Declare a variable num and store a user defined input from the console in it
+- Declare a variable a and initialize it to 0
+- Use the while syntax to create a loop, output the following to the console Print a in separate lines as long as it is less than num. Increment a by 1 in each iteration.
+### Sample 1:
+Input
+Output
+
+```
+10
+```
+
+```
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+```
 
 ## Solution
 
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-07-17T06:29:01.427Z  
+**Submitted:** 2026-07-18T10:21:05.266Z  
 
 ```py
+# Update your code below this line
 
-i = 2
-
-while i <= 128:
-    print(i)
-    i = i*2
-
+num = int(input())
+a = 0
+while a < num:
+    print(a)
+    a = a + 1
 ```
 
 ---
