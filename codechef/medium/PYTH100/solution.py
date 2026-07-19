@@ -1,4 +1,6 @@
 # Solution as follows
 
-for i in range(10):
-    print(i*i)
+n = int(input())
+
+for i in range(1, 11):
+    print(n, "x", i, "=", n*i)
