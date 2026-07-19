@@ -4,33 +4,25 @@
 
 ## Problem
 
-### Table of any number
+### Factorial of any number
 
 Listen
 
-Write a program which does the following
+Write a program that does the following
 
-- Create a variable n and store the user defined input from console in n
-- Output to the console the multiplication table for n up to 10 In the previous module we manually entered each row of the table In this problem - use for loops to generate the table
+- Declare an integer variable num and initialize it to a user defined input
+- Output to the console the factorial of num Remember to use loops for this problem Factorial of a number n is the product of all the numbers from 1 to n Factorial of a number(n) = n × (n-1) ×... 2 × 1
 ### Sample 1:
 Input
 Output
 
 ```
-5
+6
 ```
 
 ```
-5 x 1 = 5
-5 x 2 = 10
-5 x 3 = 15
-5 x 4 = 20
-5 x 5 = 25
-5 x 6 = 30
-5 x 7 = 35
-5 x 8 = 40
-5 x 9 = 45
-5 x 10 = 50
+The factorial of the given number is: 720
+
 ```
 
 ## Solution
@@ -38,15 +30,22 @@ Output
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-07-19T08:40:20.506Z  
+**Submitted:** 2026-07-19T08:43:32.407Z  
 
 ```py
 # Solution as follows
 
 n = int(input())
 
-for i in range(1, 11):
-    print(n, "x", i, "=", n*i)
+i = 1
+factorial = 1
+
+while i <= n:
+    # We need to multiply by i in each iteration
+    factorial = i * factorial
+    i = i + 1
+    
+print("The factorial of the given number is:", factorial)
 ```
 
 ---
