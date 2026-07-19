@@ -58,11 +58,14 @@ Output
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-07-19T08:35:28.501Z  
+**Submitted:** 2026-07-19T08:36:21.282Z  
 
 ```py
-# Update your code below this line
-for i in range(1,6):
+# Solution as follows
+
+num = int(input())
+
+for i in range(1, num+1):
     print(i)
 ```
 
