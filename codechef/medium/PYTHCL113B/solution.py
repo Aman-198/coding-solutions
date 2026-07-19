@@ -1,3 +1,6 @@
-# Update your code below this line
-for i in range(1,6):
+# Solution as follows
+
+num = int(input())
+
+for i in range(1, num+1):
     print(i)
