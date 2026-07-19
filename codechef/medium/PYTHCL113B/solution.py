@@ -1,3 +1,3 @@
-# Update the '_' to solve the problem
-for i in range(30, 4, -1):
+# Update your code below this line
+for i in range(1,6):
     print(i)
