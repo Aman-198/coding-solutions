@@ -57,7 +57,7 @@ Write a program which does the following
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-07-18T10:18:35.834Z  
+**Submitted:** 2026-07-22T12:01:33.526Z  
 
 ```py
 # Replace __ in print statement to print (number - 1)
