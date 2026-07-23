@@ -1,15 +1,5 @@
-def compute_value(a, b):
-    # update your code below this line
-    c = a*a + 2*a*b + b*b 
-    d = a + b 
-    print(c)
-    print(d)
-    
-    
-    
-    
+def greet(name):
+    print("Hello, " + name + "!")
 
-t = 3
-for _ in range(t):
-    A, B = map(int, input().split())
-    compute_value(A, B)
+name = "Alice"
+greet(name)
