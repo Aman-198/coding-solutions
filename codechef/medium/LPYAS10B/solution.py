@@ -1,2 +1,3 @@
 # cook your dish here
-print("Learn Coding on CodeChef")
+for i in range(1,6):
+    print("*" * i)
