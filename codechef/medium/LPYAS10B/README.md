@@ -4,18 +4,40 @@
 
 ## Problem
 
-_Description not available._
+### Print Right Angled Triangle
+
+Print the following pattern (check the sample output).
+
+Hint: You can do this without using loops as well.
+
+### Sample 1:
+Input
+Output
+
+```
+ 
+```
+
+```
+*
+**
+***
+  
+  *
+
+```
 
 ## Solution
 
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-07-23T10:25:47.798Z  
+**Submitted:** 2026-07-23T10:28:09.425Z  
 
 ```py
 # cook your dish here
-print("Learn Coding on CodeChef")
+for i in range(1,6):
+    print("*" * i)
 ```
 
 ---
