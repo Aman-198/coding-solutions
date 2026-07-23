@@ -32,7 +32,7 @@ manipulate_tuple(my_tuple)
 **Language:** C++  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-07-23T10:11:22.376Z  
+**Submitted:** 2026-07-23T10:11:24.765Z  
 
 ```cpp
 student = (["Alice", "Bob"], ["Math", "Science", "English"], 20, 'XYZ')
