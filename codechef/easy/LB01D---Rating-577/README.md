@@ -14,7 +14,7 @@ Code this sub-problem in the IDE to continue.
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-07-25T15:08:10.393Z  
+**Submitted:** 2026-07-26T05:46:17.242Z  
 
 ```py
 # Solution as follows
