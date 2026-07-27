@@ -36,16 +36,16 @@ Abcd
 
 ## Solution
 
-**Language:** C++  
+**Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-07-27T12:06:43.857Z  
+**Submitted:** 2026-07-27T12:06:47.676Z  
 
-```cpp
+```py
 # Replace the _ (underscores) in the code below
 
 S = input()
-print()
+print(S)
 ```
 
 ---
