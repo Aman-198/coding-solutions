@@ -75,7 +75,7 @@ Since the count of test cases is 3 -> we accept 3 inputs and print 3 outputs
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-07-23T10:15:13.858Z  
+**Submitted:** 2026-07-28T12:45:34.989Z  
 
 ```py
 # accept the count of test cases given in the the 1st line
