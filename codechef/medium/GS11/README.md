@@ -53,7 +53,7 @@ Output for test case 2: 34 567 A1B2C3
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-07-24T13:43:57.712Z  
+**Submitted:** 2026-07-29T08:10:18.992Z  
 
 ```py
 t = int(input())
@@ -64,7 +64,6 @@ for i in range(t):
     
     # accept 1 string on the 2nd line of each test case
     C = input()
-    
     # output the 2 integers and 1 string on a single line
     print(A, B, C)
 
