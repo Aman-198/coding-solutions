@@ -64,15 +64,14 @@ Output 3: 1 23 456 789 101112
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-07-23T10:19:32.228Z  
+**Submitted:** 2026-07-29T08:07:55.347Z  
 
 ```py
 t = int(input())       
 
 for i in range(t):     
     # accept 2 integers on the 1st line using map
-    A, B = map(int,input().split())
-    
+    A, B = map(int, input().split())
     
     
     # accept 3 integers on the 2nd line using map
