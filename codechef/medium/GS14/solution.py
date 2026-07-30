@@ -1,0 +1,8 @@
+t = int(input())
+for i in range(t):
+    # take input and output the join using +
+    
+    s = input()
+    x = s + s
+    print(x)
+    
